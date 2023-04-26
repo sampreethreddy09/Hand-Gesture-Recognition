@@ -17,8 +17,17 @@ This project aims to provide speaking aid to dumb and blind people. Users will h
 - We connected a LED Display to Arduino and coded it to accept Serial inputs as a string and display it on the LED.
 
 On startup :
+
 ![image](https://user-images.githubusercontent.com/115579102/234520614-3d653693-cd64-498d-8900-fd452d9884b8.png)
 
+Recognizing gestures by pressing 'u' and 'i' on the keyboard:
+
+![gestures-ex1](https://user-images.githubusercontent.com/115579102/234577151-8da8171a-ec13-4c28-aaa7-7d5adb6bf884.png)
+
+![gesstures_ex2](https://user-images.githubusercontent.com/115579102/234577187-a3a44af1-cd00-45a1-be18-2769e1a29059.png)
+
+
 Output after recieving gestures (left-0 right-2, left-0 right-1, left-2 right-0):
+
 ![image](https://user-images.githubusercontent.com/115579102/234521007-6d6de708-cc56-4faa-b0d8-09f54d19e581.png)
 
