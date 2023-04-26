@@ -6,8 +6,8 @@ This project aims to provide speaking aid to dumb and blind people. Users will h
 • Arduino with LED Display atached through I2C module and its respec􀆟ve libraries installed through IDE with a code to display Serial Inputs
 
 # PROJECT DESIGN
-- Ini􀆟ally we setup a gesture recogni􀆟on service in python using the OpenCV library.
-- Then the media pipe library was used to log the co-ordinates of required gestures (represen􀆟ng numbers) to a .csv file.
+- Initially we setup a gesture recogntion service in python using the OpenCV library.
+- Then the media pipe library was used to log the co-ordinates of required gestures (representing numbers) to a .csv file.
 - Then we used TensorFlow module-based training module to train our program to recognise the gestures.
 - On receiving an input,
     1) Handiness of the input is obtained
